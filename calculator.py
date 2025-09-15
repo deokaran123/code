@@ -8,4 +8,5 @@ except ZeroDivisionError:
     print("Dividing any number by zero is infinity")
 except NameError:
     print("Only Integer values are allowed")
+# This calculator is build by Raj "github.com/RudraVitap"
 
